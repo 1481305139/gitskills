@@ -1,6 +1,5 @@
 # gitskills
 Creating a new branch is quick.
 Creating a new branch is quick testor simple.
-bbbderer
-
+a1  a2
 
